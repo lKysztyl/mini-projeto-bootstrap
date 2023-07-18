@@ -5,3 +5,17 @@
 .text-small {
     font-size: 0.6rem;
 }
+
+
+@media screen and (max-width: 1200px) {
+    .w-75 {
+    width: 100% !important;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+    #kittenCarousel {
+        display: none;
+    }
+}
