@@ -1,3 +1,7 @@
-.navbar-collapse {
-    justify-content: end;
+.custom-cursor {
+    cursor: pointer;
+}
+
+.text-small {
+    font-size: 0.6rem;
 }
